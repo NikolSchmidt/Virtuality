@@ -77,8 +77,8 @@ body {
 
 }
 #box2 {
-    -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
-    box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
+    -webkit-box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050; 
+    box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050;
     margin-top: 100px;
     border-radius: 20px;
     font-size: 17px;
@@ -92,8 +92,8 @@ body {
     
 }
 #box3 {
-    -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
-    box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
+    -webkit-box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050; 
+    box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050;
     margin-top: -430px;
     margin-left: 385px;
     font-size: 17px;
@@ -107,8 +107,8 @@ body {
     transition: 0.3s ease;
 }
 #box4 {
-    -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
-    box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
+    -webkit-box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050; 
+    box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050;
     margin-top: -430px;
     margin-left: 770px;
     font-size: 17px;
