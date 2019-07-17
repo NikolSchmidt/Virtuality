@@ -1,20 +1,20 @@
 body {
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Cambria';
     margin: 20px;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(201,201,201,1) 100%);
+    background: linear-gradient(0deg,white 0%,white 100%);
     background-repeat: repeat;
     background-attachment: fixed;
     max-width: 100%;
 }
 .header {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
-    border-radius: 20px;
+    border-radius: 0px;
     width: 1000px;
     height: 400px;
     min-width: 100%;
-    -webkit-box-shadow: rgb(34, 34, 34) 1px 0 10px;;
+    -webkit-box-shadow: rgb(34, 34, 34) 0px 0 0px;;
 }
 .header {
     text-align: center;
@@ -22,7 +22,6 @@ body {
 .Virtuality {
     margin-top: -330px;
     text-align: center;
-    font-family: 'Arial';
     font-size:50px;
     color: #FFFFFF;
     text-shadow: rgb(34, 34, 34) 1px 0 10px;
@@ -48,17 +47,14 @@ body {
 }   
 
 #box1 {
-    -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
-    box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
+    
     margin-top: 50px;
-    border-radius: 20px;
-    font-size: 30px;
+    border-radius: 0px;
+    font-size: 25px;
     height: 130px;
     background-color: white;
-    text-indent: 50px;
-    padding: 10px;
-    text-align: left;
-    font-family: "Arial";
+    text-align: center;
+    padding: 20px;
 }
 #box2 {
     -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
@@ -69,40 +65,33 @@ body {
     height: 430px;
     width: 400px;
     background-color: white;
-    text-indent: 50px;
-    padding: 10px;
-    text-align: left;
-    font-family: "Arial";
+    text-align: center;
 }
 #box3 {
     -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
     box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
     margin-top: -450px;
     margin-left: 450px;
-    border-radius: 20px;
     font-size: 20px;
     height: 430px;
     width: 450px;
     background-color: white;
-    text-indent: 50px;
-    padding: 10px;
-    text-align: left;
-    font-family: "Arial";
+    text-align: center;
+    border-radius: 20px;
 }
 #box4 {
     -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
     box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
     margin-top: -450px;
     margin-left: 950px;
-    border-radius: 20px;
     font-size: 20px;
     height: 430px;
     width: 410px;
     background-color: white;
     text-indent: 50px;
     padding: 10px;
-    text-align: left;
-    font-family: "Arial";
+    text-align: center;
+    border-radius: 20px;
 }
 .header2 {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
@@ -130,3 +119,4 @@ img {
     text-align: left;
     font-size: 10px;
 }
+
