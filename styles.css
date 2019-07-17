@@ -114,14 +114,15 @@ body {
     margin-top: 30px;
 }
 img {
-    border: 10px solid white;
-    border-radius: 20px;
+    border: none;
+    border-radius: 0px;
     padding: 0px;
     width: 354px;
     margin-top: 20px;
     -webkit-box-shadow: rgb(117, 117, 117) 1px 0 10px;;
     margin-top: 30px;
-    margin-left: 60px;
+    margin-left: 0px;
+    margin-bottom: 30px;
   }
 .zapati {
     color: white;
