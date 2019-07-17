@@ -31,7 +31,7 @@ body {
 }
 
 
-.Virtuality h1 {
+.Virtuality h4 {
     text-align: center;
     font-size:110px;
     color: #FFFFFF;
@@ -71,6 +71,8 @@ body {
     padding: 20px;
     margin-bottom: -50px;
     background-repeat: no-repeat;
+    transition: 0.3
+    s ease;
     
 
 }
@@ -81,38 +83,44 @@ body {
     border-radius: 20px;
     font-size: 17px;
     height: 430px;
-    width: 360px;
+    width: 356px;
     background-color: white;
-    text-align: center;
     background-repeat: no-repeat;
+    text-align: center;
+    transition: 0.3s ease;
+
     
 }
 #box3 {
     -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
     box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
     margin-top: -430px;
-    margin-left: 380px;
+    margin-left: 385px;
     font-size: 17px;
     height: 430px;
-    width: 390px;
+    width: 356px;
     background-color: white;
     text-align: center;
     border-radius: 20px;
     background-repeat: no-repeat;
+    text-align: center;
+    transition: 0.3s ease;
 }
 #box4 {
     -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
     box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
     margin-top: -430px;
-    margin-left: 790px;
+    margin-left: 770px;
     font-size: 17px;
     height: 430px;
-    width: 320px;
+    width: 356px;
     background-color: white;
     padding: 10px;
     text-align: center;
     border-radius: 20px;
     background-repeat: no-repeat;
+    text-align: center;
+    transition: 0.3s ease;
 }
 .header2 {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
@@ -123,6 +131,7 @@ body {
     -webkit-box-shadow: rgb(255, 255, 255) 1px 0 10px;;
     margin-top: 30px;
     background-repeat: no-repeat;
+    
 }
 img {
     border: none;
@@ -149,9 +158,30 @@ img {
 b {
     font-size: 25px;
 }
-.p3 {
-    margin-top: 0px;
+
+p {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+   
+}
+h3 {
+    background: -webkit-linear-gradient(rgb(45, 0, 129), rgb(194, 0, 178));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
 }
 h2 {
-    margin-top: 0px;
+    background: -webkit-linear-gradient(rgb(45, 0, 129), rgb(194, 0, 178));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+    
+}
+h1 {
+    background: -webkit-linear-gradient(rgb(45, 0, 129), rgb(194, 0, 178));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+li {
+    text-align: left;
 }
