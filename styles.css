@@ -73,7 +73,6 @@ body {
     background-repeat: no-repeat;
     transition: 0.3
     s ease;
-    
 
 }
 #box2 {
@@ -88,6 +87,7 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     transition: 0.3s ease;
+    
 
     
 }
@@ -124,15 +124,16 @@ body {
 }
 .header2 {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
-    border-radius: 0px;
+    border-radius: 20px;
     /*width: 1000px;*/
     height: 40px;
     min-width: 100%;
     -webkit-box-shadow: rgb(255, 255, 255) 1px 0 10px;;
-    margin-top: 30px;
+    margin-top: 430px;
     background-repeat: no-repeat;
-    
 }
+    
+
 img {
     border: none;
     border-radius: 0px;
@@ -148,8 +149,8 @@ img {
 .zapati {
     color: white;
     margin-left: 150px;
-    margin-bottom: -90px;
-    text-align: left;
+    margin-bottom: -450px;
+    text-align: center;
     font-size: 10px;
 }
 .div {
@@ -184,4 +185,10 @@ h1 {
 }
 li {
     text-align: left;
+}
+h6 {
+    color: white;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 30px;
 }
