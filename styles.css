@@ -185,6 +185,13 @@ h1 {
 }
 li {
     text-align: left;
+    transition: 0.6s ease-in;
+    font-size: 18px;
+}
+li:hover {
+    font-size: 0.6cm;
+    transition: 0.6s ease-in;
+    color: rgb(172, 0, 120);
 }
 h6 {
     color: white;
