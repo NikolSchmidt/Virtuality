@@ -1,0 +1,2 @@
+//aktivace carousel
+$('.carousel').carousel()
