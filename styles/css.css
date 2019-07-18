@@ -124,12 +124,12 @@ body {
 }
 .header2 {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
-    border-radius: 20px;
+    border-radius: 0px;
     /*width: 1000px;*/
     height: 40px;
     min-width: 100%;
     -webkit-box-shadow: rgb(255, 255, 255) 1px 0 10px;;
-    margin-top: 430px;
+    margin-top: 30px;
     background-repeat: no-repeat;
 }
     
@@ -151,7 +151,7 @@ img {
     margin-left: 150px;
     margin-bottom: -450px;
     text-align: center;
-    font-size: 10px;
+    font-size: 2px;
 }
 .div {
     max-width: 100%;
@@ -198,4 +198,19 @@ h6 {
     margin-top: 5px;
     font-size: 20px;
     margin-left: 30px;
+}
+.div1 {
+    margin-top: 300px;
+}
+
+.mujcarousel {
+    width: 70%;
+    margin-left: 11em;
+    margin-top: 2em;
+}
+.navigace {
+    margin-top: -37px;
+}
+h6 {
+    font-size: 20px;
 }
