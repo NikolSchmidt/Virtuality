@@ -1,0 +1,201 @@
+body {
+    color: black;
+    font-family: 'Cambria';
+    margin: 2em;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg,white 0%,white 100%);
+    background-attachment: fixed;
+    max-width: 100%;
+}
+.header {
+    background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
+    border-radius: 0em;
+   /* width: 1000px;*/
+    /*min-width: 100%;*/
+    -webkit-box-shadow: rgb(34, 34, 34) 0px 0 0px;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    padding-top: 10%;
+
+}
+.header {
+    text-align: center;
+}
+.Virtuality {
+    text-align: center;
+    font-size:180px;
+    color: #FFFFFF;
+    text-shadow: rgb(34, 34, 34) 1px 0 10px;
+    transition: 1s ease;
+   
+}
+
+
+.Virtuality h4 {
+    text-align: center;
+    font-size:110px;
+    color: #FFFFFF;
+    text-shadow: rgb(34, 34, 34) 1px 0 10px;
+    transition: 1s ease;
+}
+
+.btn {
+
+  background-color: rgb(255, 255, 255);
+  border: none;
+  color: black;
+  padding: 12px 52px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  border-radius: 20px;
+  margin-left: 80px;
+  margin-top: -50px;
+  -webkit-box-shadow: 1px 0 10px ##666666, 5px 5px 15px 5px rgba(255,255,255,0); 
+    box-shadow: 1px 0 10px #666666, 5px 5px 15px 5px rgba(255,255,255,0);
+  }
+.btn:hover {
+    background: linear-gradient(0deg,rgb(173, 23, 148) 0%,rgb(56, 2, 155) 100%);
+    color: rgb(255, 255, 255);
+}   
+
+#box1 {
+    
+    margin-top: 0px;
+    border-radius: 0px;
+    font-size: 25px;
+    height: 130px;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: -50px;
+    background-repeat: no-repeat;
+    transition: 0.3
+    s ease;
+
+}
+#box2 {
+    -webkit-box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050; 
+    box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050;
+    margin-top: 100px;
+    border-radius: 20px;
+    font-size: 17px;
+    height: 430px;
+    width: 356px;
+    background-color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+    transition: 0.3s ease;
+    
+
+    
+}
+#box3 {
+    -webkit-box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050; 
+    box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050;
+    margin-top: -430px;
+    margin-left: 385px;
+    font-size: 17px;
+    height: 430px;
+    width: 356px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    text-align: center;
+    transition: 0.3s ease;
+}
+#box4 {
+    -webkit-box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050; 
+    box-shadow: 1px 5px 20px #1b00b3, 5px 5px 1px 5px #490050;
+    margin-top: -430px;
+    margin-left: 770px;
+    font-size: 17px;
+    height: 430px;
+    width: 356px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    text-align: center;
+    transition: 0.3s ease;
+}
+.header2 {
+    background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
+    border-radius: 20px;
+    /*width: 1000px;*/
+    height: 40px;
+    min-width: 100%;
+    -webkit-box-shadow: rgb(255, 255, 255) 1px 0 10px;;
+    margin-top: 430px;
+    background-repeat: no-repeat;
+}
+    
+
+img {
+    border: none;
+    border-radius: 0px;
+    padding: 0px;
+    width: 354px;
+    margin-top: 20px;
+    -webkit-box-shadow: rgb(117, 117, 117) 1px 0 10px;;
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+    background-repeat: no-repeat;
+  }
+.zapati {
+    color: white;
+    margin-left: 150px;
+    margin-bottom: -450px;
+    text-align: center;
+    font-size: 10px;
+}
+.div {
+    max-width: 100%;
+}
+b {
+    font-size: 25px;
+}
+
+p {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+   
+}
+h3 {
+    background: -webkit-linear-gradient(rgb(45, 0, 129), rgb(194, 0, 178));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+h2 {
+    background: -webkit-linear-gradient(rgb(45, 0, 129), rgb(194, 0, 178));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+    
+}
+h1 {
+    background: -webkit-linear-gradient(rgb(45, 0, 129), rgb(194, 0, 178));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+li {
+    text-align: left;
+    transition: 0.6s ease-in;
+    font-size: 18px;
+}
+li:hover {
+    font-size: 0.6cm;
+    transition: 0.6s ease-in;
+    color: rgb(172, 0, 120);
+}
+h6 {
+    color: white;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 30px;
+}
