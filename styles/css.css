@@ -6,6 +6,7 @@ body {
     background: linear-gradient(0deg,white 0%,white 100%);
     background-attachment: fixed;
     max-width: 100%;
+    transition: 1s ease;
 }
 .header {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
@@ -124,7 +125,7 @@ body {
 }
 .header2 {
     background-image: url("https://i.ibb.co/B4t0DsX/z-hlav.png");
-    border-radius: 0px;
+    border-radius: 20px;
     /*width: 1000px;*/
     height: 40px;
     min-width: 100%;
@@ -209,8 +210,9 @@ h6 {
     margin-top: 2em;
 }
 .navigace {
-    margin-top: -37px;
+    margin-top: -34px;
 }
 h6 {
-    font-size: 20px;
+    font-size: 12px;
+    margin-top: 12px;
 }
